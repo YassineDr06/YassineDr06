@@ -1,5 +1,5 @@
 # Yassine Amaador  
-Derdejaars HBO-ICT student Cybersecurity aan de Hogeschool Utrecht met een passie voor het beveiligen en optimaliseren van IT-omgevingen. Gericht op een carrière als **SOC Analyst** / **Threat Intelligence** specialist.  
+Als gepassioneerde student in Cybersecurity wil ik mijn vaardigheden verder ontwikkelen binnen de domeinen Security Operations, Threat Intelligence en Incident Response, met een sterke interesse in het analyseren en mitigeren van beveiligingsdreigingen. 
 
 [![LinkedIn](https://img.shields.io/badge/-Yassine_Amaador-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-amaador-8bb509347/)
 
