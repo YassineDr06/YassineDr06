@@ -87,7 +87,7 @@ Als gepassioneerde student in Cybersecurity wil ik mijn vaardigheden verder ontw
 ## 📫 Contact
 
 - LinkedIn: [Yassine Amaador](https://www.linkedin.com/in/yassine-amaador-8bb509347/)  
-- E-mail: *[jou email hier invullen]*  
+- E-mail: *[yassine2006.1@hotmail.com]*  
 
 ---
 
