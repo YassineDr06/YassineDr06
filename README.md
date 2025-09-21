@@ -1,4 +1,4 @@
-# Yassine Amaador  
+# Hoi, Ik ben Yassine 
 Als gepassioneerde student in Cybersecurity wil ik mijn vaardigheden verder ontwikkelen binnen de domeinen Security Operations, Threat Intelligence en Incident Response, met een sterke interesse in het analyseren en mitigeren van beveiligingsdreigingen. 
 
 [![LinkedIn](https://img.shields.io/badge/-Yassine_Amaador-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-amaador-8bb509347/)
