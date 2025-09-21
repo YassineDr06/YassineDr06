@@ -6,7 +6,7 @@ Derdejaars HBO-ICT student Cybersecurity aan de Hogeschool Utrecht met een passi
 ---
 
 ## 🎯 Objective  
-Als gepassioneerde student in Cybersecurity wil ik mijn vaardigheden verder ontwikkelen binnen een **Security Operations Center (SOC)**. Ik ben vooral geïnteresseerd in rollen als **Tier 1/SOC Analyst** en **Threat Intelligence**, waar ik kan bijdragen aan het detecteren, analyseren en mitigeren van beveiligingsincidenten, én aan het opbouwen van preventieve beveiligingsstrategieën.
+Ik ben een gepassioneerde student in Cybersecurity die mijn vaardigheden verder wil ontwikkelen binnen een **Security Operations Center (SOC) waar ik kan bijdragen aan het detecteren, analyseren en mitigeren van beveiligingsincidenten, én aan het opbouwen van preventieve beveiligingsstrategieën.
 
 ---
 
