@@ -6,7 +6,7 @@ Als gepassioneerde student in Cybersecurity wil ik mijn vaardigheden verder ontw
 ---
 
 ## 🎯 Objective  
-Ik ben een gepassioneerde student in Cybersecurity die mijn vaardigheden verder wil ontwikkelen binnen een **Security Operations Center (SOC) waar ik kan bijdragen aan het detecteren, analyseren en mitigeren van beveiligingsincidenten, én aan het opbouwen van preventieve beveiligingsstrategieën.
+Mijn traject binnen de ICT heeft mijn passie voor cybersecurity versterkt. Ik ben nu gemotiveerd om mijn kennis en vaardigheden in te zetten binnen rollen zoals **SOC Analyst, Threat Intelligence Analyst en Incident Responder**, waar ik kan bijdragen aan het opsporen, analyseren en mitigeren van dreigingen.
 
 ---
 
