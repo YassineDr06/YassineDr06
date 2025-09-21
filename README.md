@@ -59,12 +59,14 @@ Mijn traject binnen de ICT heeft mijn passie voor cybersecurity versterkt. Ik be
 ## 📜 Certificeringen
 
 <div>
-    <img src="https://img.shields.io/badge/-Cisco_CyberOps_Associate-005C97?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Azure_Fundamentals-0089D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <!-- Voeg hieronder meer toe als je andere certificeringen hebt -->
+    <a href="https://www.credly.com/badges/bea0a800-c4cd-4390-9504-fb05968bfd56/linked_in_profile" target="_blank">
+        <img src="https://img.shields.io/badge/-Cisco_CyberOps_Associate-005C97?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
+    <a href="https://www.credly.com/badges/4961ee24-dfe5-4f1d-982a-c92ec97287bc/linked_in_profile" target="_blank">
+        <img src="https://img.shields.io/badge/-Microsoft_Azure_Fundamentals-0089D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    </a>
 </div>
 
----
 
 ## 🔧 Projecten
 
