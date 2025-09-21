@@ -1,9 +1,10 @@
 # Hoi, Ik ben Yassine 
 Als gepassioneerde student in Cybersecurity wil ik mijn vaardigheden verder ontwikkelen binnen de domeinen Security Operations, Threat Intelligence en Incident Response, met een sterke interesse in het analyseren en mitigeren van beveiligingsdreigingen. 
 
-[![LinkedIn](https://img.shields.io/badge/-Yassine_Amaador-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-amaador-8bb509347/)
+<a href="https://www.linkedin.com/in/yassine-amaador-8bb509347/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
 
 ## 🎯 Objective  
 Mijn traject binnen de ICT heeft mijn passie voor cybersecurity versterkt. Ik ben nu gemotiveerd om mijn kennis en vaardigheden in te zetten binnen rollen zoals **SOC Analyst, Threat Intelligence Analyst en Incident Responder**, waar ik kan bijdragen aan het opsporen, analyseren en mitigeren van dreigingen.
