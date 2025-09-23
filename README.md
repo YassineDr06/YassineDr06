@@ -22,7 +22,9 @@ Mijn traject binnen de ICT heeft mijn passie voor cybersecurity versterkt. Ik be
 | Case Management met TheHive                      | SOC Automation Project                                                             |
 | Scripting & Automatisering voor Threat Mitigatie  | SOC Automation Project                                                             |
 | Onderzoek naar AI-risk in bedrijfscontext         | Onderzoek Sue BV                                                                   |
-| NIS2-Compliance Advies & Implementatie           | Project DAK                                                                         |
+| NIS2-Compliance Advies & Implementatie           | [Project DAK](https://github.com/YassineDr06/DAK-NIS2-compliance)                  |
+
+                                                                   |
 
 ---
 
