@@ -13,16 +13,16 @@ Mijn traject binnen de ICT heeft mijn passie voor cybersecurity versterkt. Ik be
 
 ## 💡 Skills & Projects
 
-| Skill                                           | Associated Project                                                                 |
-|--------------------------------------------------|-------------------------------------------------------------------------------------|
-| SIEM-implementatie & Loganalyse                  | Detection Lab                                                                      |
-| Network Traffic Monitoring & Attack Detection     | Detection Lab                                                                      |
+| Skill                                             | Associated Project                                                                 |
+|-------------------------------------------------  |------------------------------------------------------------------------------------|
+| SIEM-implementatie & Network Traffic Monitoring   | Detection Lab                                                                      |
+| Loganalyse & Attack Detection                     | Active Directory & Atomic red team lab                                             |
 | Security Automation met Shuffle SOAR              | SOC Automation Project                                                             |
 | Incident Response Planning & Execution            | SOC Automation Project                                                             |
-| Case Management met TheHive                      | SOC Automation Project                                                             |
+| Case Management met TheHive                       | SOC Automation Project                                                             |
 | Scripting & Automatisering voor Threat Mitigatie  | SOC Automation Project                                                             |
 | Onderzoek naar AI-risk in bedrijfscontext         | Onderzoek Sue BV                                                                   |
-| NIS2-Compliance Advies & Implementatie           | [Project DAK](https://github.com/YassineDr06/DAK-NIS2-compliance)                  |
+| NIS2-Compliance Advies & Implementatie            | [Project DAK](https://github.com/YassineDr06/DAK-NIS2-compliance)                  |
 
                                                                    |
 
