@@ -15,12 +15,12 @@ Mijn traject binnen de ICT heeft mijn passie voor cybersecurity versterkt. Ik be
 
 | Skill                                             | Associated Project                                                                 |
 |-------------------------------------------------  |------------------------------------------------------------------------------------|
-| SIEM-implementatie & Network Traffic Monitoring   | Detection Lab                                                                      |
+| SIEM-implementatie & Network Traffic Monitoring   | SOC homelab                                                                      |
 | Loganalyse & Attack Detection                     | Active Directory & Atomic red team lab                                             |
 | Security Automation met Shuffle SOAR              | SOC Automation Project                                                             |
 | Incident Response Planning & Execution            | SOC Automation Project                                                             |
 | Case Management met TheHive                       | SOC Automation Project                                                             |
-| Scripting & Automatisering voor Threat Mitigatie  | SOC Automation Project                                                             |
+| Scripting & Automatisering voor Threat Mitigatie  | Mini soc enviroment                                                          |
 | Onderzoek naar AI-risk in bedrijfscontext         | Onderzoek Sue BV                                                                   |
 | NIS2-Compliance Advies & Implementatie            | [Project DAK](https://github.com/YassineDr06/DAK-NIS2-compliance)                  |
 
