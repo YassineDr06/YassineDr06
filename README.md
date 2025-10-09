@@ -15,7 +15,7 @@ Mijn traject binnen de ICT heeft mijn passie voor cybersecurity versterkt. Ik be
 
 | Skill                                             | Associated Project                                                                 |
 |-------------------------------------------------  |------------------------------------------------------------------------------------|
-| SIEM-implementatie & Network Traffic Monitoring   | SOC homelab                                                                      |
+| SIEM-implementatie & Network Traffic Monitoring   | [SOC homelab](https://github.com/YassineDr06/SOC-homelab)                         |
 | Loganalyse & Attack Detection                     | [Active Directory & Atomic red team lab](https://github.com/YassineDr06/AD-atomic-red-team-homelab) | 
 | Security Automation met Shuffle SOAR              | SOC Automation Project                                                             |
 | Incident Response Planning & Execution            | SOC Automation Project                                                             |
