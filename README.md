@@ -1,99 +1,32 @@
-# Hoi, Ik ben Yassine 
-Ik ben een gepassioneerde student in Cybersecurity die zijn vaardigheden verder wil ontwikkelen binnen de domeinen Security Operations, Threat Intelligence en Incident Response, met een sterke interesse in het analyseren en mitigeren van beveiligingsdreigingen. 
+# Yassine Amaador
 
-<a href="https://www.linkedin.com/in/yassine-amaador-8bb509347/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Cyber Security & Cloud student at Hogeschool Utrecht | Junior Information Security Officer | CompTIA Security+
 
+I work on the security of STAN, a real-time safety system for road workers: penetration testing, hardening, monitoring and incident handling. In my own time I build labs to practise detection and attack simulation.
 
-## 🎯 Objective  
-Mijn traject binnen de ICT heeft mijn passie voor cybersecurity versterkt. Ik ben nu gemotiveerd om mijn kennis en vaardigheden in te zetten binnen rollen zoals **SOC Analyst, Threat Intelligence Analyst en Incident Responder**, waar ik kan bijdragen aan het opsporen, analyseren en mitigeren van dreigingen.
+Open to a technical cybersecurity graduation internship from February 2027.
 
----
+## Projects
 
-## 💡 Skills & Projects
+| Project | What it shows | Tools |
+| --- | --- | --- |
+| [Detection lab](https://github.com/YassineDr06/AD-atomic-red-team-homelab) | Simulating attacks and checking whether the logs catch them | Active Directory, Splunk, Sysmon, Hydra, Atomic Red Team |
+| [SOC homelab](https://github.com/YassineDr06/SOC-homelab) | Practising log analysis and detection with endpoint logs | VMware, Sysmon, Splunk, Kali Linux |
 
-| Skill                                             | Associated Project                                                                 |
-|-------------------------------------------------  |------------------------------------------------------------------------------------|
-| SIEM-implementatie & Network Traffic Monitoring   | [SOC homelab](https://github.com/YassineDr06/SOC-homelab)                         |
-| Loganalyse & Attack Detection                     | [Active Directory & Atomic red team lab](https://github.com/YassineDr06/AD-atomic-red-team-homelab) | 
-| Security Automation met Shuffle SOAR              | SOC Automation Project                                                             |
-| Incident Response Planning & Execution            | SOC Automation Project                                                             |
-| Case Management met TheHive                       | SOC Automation Project                                                             |
-| Scripting & Automatisering voor Threat Mitigatie  | Mini soc enviroment                                                          |
-| Onderzoek naar AI-risk in bedrijfscontext         | Onderzoek Sue BV                                                                   |
-| NIS2-Compliance Advies & Implementatie            | [Project DAK](https://github.com/YassineDr06/DAK-NIS2-compliance)                  |
+## Skills
 
-                                                                   |
+- **Offensive and application security:** penetration testing (black, grey and white box), PTES, OWASP, CIS Benchmarks, MITRE ATT&CK, Kali Linux
+- **Defensive security:** Splunk (SPL), Sysmon, Wazuh, Microsoft Sentinel, Zabbix, Grafana, log analysis, incident triage
+- **Infrastructure and cloud:** Linux, Kubernetes, Docker, PostgreSQL, Active Directory, Azure, Intune, Microsoft 365, Cisco
+- **Automation:** Bash, Python, Ansible, Power Automate
 
----
+## Certifications
 
-## 🛠️ Tools & Technologieën
+- CompTIA Security+ (SY0-701), 2026
+- Cisco Certified Cybersecurity Associate, 2025
+- Microsoft Certified: Azure Fundamentals (AZ-900), 2025
+- In progress: eJPT
 
-### Network & Monitoring
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## Contact
 
-### Endpoint & Forensics
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM & Logging
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Cloud & Overige Technologieën
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
-</div>
-
----
-
-## 📜 Certificeringen
-
-<div>
-    <a href="https://www.credly.com/badges/bea0a800-c4cd-4390-9504-fb05968bfd56/linked_in_profile" target="_blank">
-        <img src="https://img.shields.io/badge/-Cisco_CyberOps_Associate-005C97?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    </a>
-    <a href="https://www.credly.com/badges/4961ee24-dfe5-4f1d-982a-c92ec97287bc/linked_in_profile" target="_blank">
-        <img src="https://img.shields.io/badge/-Microsoft_Azure_Fundamentals-0089D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    </a>
-</div>
-
-
-## 🔧 Projecten
-
-- **Detection Lab** – Praktijkomgeving voor threat detection, log analyse en network monitoring.  
-- **SOC Automation Project** – Automatiseren van SOC-werkstromen, case management, incident response.  
-- **Onderzoek AI-risk** (Sue BV) – Evaluatie van risico’s rond AI binnen bedrijfscontext, aanbevelingen voor mitigatie.  
-- **Project DAK** – Ondersteuning richting NIS2-compliance, advies en praktische implementatie.
-
----
-
-## 🌱 Over Mij
-
-- Ervaren als **IT-supportmedewerker aan huis**: help klanten met hardware, software, netwerken & veilig gebruik van systemen.  
-- Sterke technische basis in netwerkbeveiliging, log management, cloud platforms.  
-- Analytisch, klantgericht & continu lerend — ik ben bezig met verdere verdieping in Threat Intelligence, Incident Response, en SOC-processen.  
-- Talen: Nederlands & Engels.  
-
----
-
-## 📫 Contact
-
-- LinkedIn: [Yassine Amaador](https://www.linkedin.com/in/yassine-amaador-8bb509347/)  
-- E-mail: *[yassine2006.1@hotmail.com]*  
-
----
-
-*“Beveiliging is niet alleen technologie, maar ook vertrouwen en continuïteit.”* 🚀  
+[LinkedIn](https://www.linkedin.com/in/yassine-amaador-8bb509347/)
